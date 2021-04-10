@@ -1,0 +1,61 @@
+﻿<UserControl x:Class="PosterWPF.Sections.GridFilm"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PosterWPF.Sections"
+             mc:Ignorable="d" 
+             x:Name="GridFilm1" Loaded="GridFilm1_Loaded">
+    <Grid Background="White" Height="730" Width="470">
+        <ScrollViewer Width="460">
+            <Grid >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="98*"/>
+                    <RowDefinition Height="92*"/>
+                    <RowDefinition Height="175*"/>
+
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" Margin="25">
+                    <Image x:Name="FilmImage" HorizontalAlignment="Center"  VerticalAlignment="Center" Height="550"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Label Margin="5, 3, 0, 0 ">Genre and country:</Label>
+                    <Label x:Name="GengreAndCountry" Margin="170,0,0, 0" Content="GenreAndCountry" HorizontalAlignment="Left"  VerticalAlignment="Top" FontSize="17" FontFamily="Times New Roman" />
+                    <Label Margin="5,30,0,25">Duration:</Label>
+                    <Label x:Name="Duratioun" Content="Duration" Margin="170,25" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="17" FontFamily="Times New Roman" />
+                    <Label Margin="5,60,0,25">Descriptions:</Label>
+                    <TextBox x:Name="ActorsAndDescriptions" Margin="85,60,0,25" IsReadOnly="True" Height="100" HorizontalAlignment="Left" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" FontSize="15" FontFamily="Times New Roman" Width="348" BorderBrush="White"/>
+                </Grid>
+
+                <Grid Grid.Row="2">
+                    <Label Content="Cinemas:" HorizontalAlignment="Left" Margin="28,0,0,15" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="18" RenderTransformOrigin="0.779,-2.879"/>
+                    <StackPanel x:Name="Cinemas" HorizontalAlignment="Left" Margin="-25,25,-5,0" VerticalAlignment="Top" Width="454" MinHeight="5000"></StackPanel>
+                </Grid>
+
+                <!--<Label x:Name="GengreAndCountry" Content="GenreAndCountry" HorizontalAlignment="Left" Margin="28,175,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Times New Roman" Width="456" />
+                <Label x:Name="Duratioun" Content="Duration" HorizontalAlignment="Left" Margin="28,213,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Times New Roman" />
+
+                <TextBox x:Name="ActorsAndDescriptions" IsReadOnly="True" HorizontalAlignment="Left" Margin="28,251" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" FontSize="20" FontFamily="Times New Roman" Width="437" BorderBrush="White"/>
+
+                -->
+                <!--<ScrollViewer x:Name="SVCinemas" Margin="0,394,15,0" >-->
+                <!--
+                    <StackPanel x:Name="Cinemas" HorizontalAlignment="Left" Margin="0,400,-17,0" VerticalAlignment="Top" Width="494" >
+                        -->
+                <!--<Image Height="15"/>-->
+                <!--
+                    </StackPanel>
+                -->
+                <!--</ScrollViewer>-->
+                <!--
+
+                <Label Content="Cinemas:" HorizontalAlignment="Left" Margin="28,356,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="20" RenderTransformOrigin="0.779,-2.879"/>
+                <Image x:Name="FilmImage" HorizontalAlignment="Left" Height="170" VerticalAlignment="Top" Width="477"/>-->
+
+            </Grid>
+        </ScrollViewer>
+
+
+
+    </Grid>
+</UserControl>

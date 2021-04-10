@@ -1,0 +1,692 @@
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\PosterWPF.exe.config
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\PosterWPF.exe
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\PosterWPF.pdb
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\PosterWPF.csprojAssemblyReference.cache
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\MainWindow.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\App.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\PosterWPF_MarkupCompile.cache
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\PosterWPF_MarkupCompile.lref
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\MainWindow.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\PosterWPF.g.resources
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\PosterWPF.Properties.Resources.resources
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\PosterWPF.csproj.GenerateResource.cache
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\PosterWPF.csproj.CoreCompileInputs.cache
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\PosterWPF.exe
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\PosterWPF.pdb
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\App.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Styles\SearchButtonStyle.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Styles\MenuButtonStyle.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Styles\MenuButtonsStyle.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Styles\CalendarButton.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\FilmsPage.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\FilmsPage.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\ConcertsPage.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\ExhibitionsPage.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\SearchPage.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\SettingsPage.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\ConcertsPage.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\ExhibitionsPage.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\SearchPage.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\SettingsPage.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\CalendarPage.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\CalendarPage.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Styles\CalendarStyle.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Styles\AllPagesMenuButtons.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\AllFilms.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\AllFilms.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\AllCinemas.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\AllCinemas.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\GridFilm.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\GridFilm.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\GridCinema.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\GridCinema.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Styles\GridFilmButtonResource.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Styles\BackButtonStyle.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\AllConcerts.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\GridConcerts.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\AllConcerts.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\GridConcerts.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\AllConcertHalls.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\GridConcertHalls.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\AllConcertHalls.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\GridConcertHalls.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\AllExhibition.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\AllExhibitionCenters.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\GridExhibition.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\GridExhibitionCenters.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\AllExhibition.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\AllExhibitionCenters.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\GridExhibition.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\GridExhibitionCenters.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\SignInForm.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\SignInForm.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Styles\SignInButtonStyle.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Styles\VkButton.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Styles\SginInButtons.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\netstandard.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.AppContext.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Collections.Concurrent.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Collections.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Collections.NonGeneric.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Collections.Specialized.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.ComponentModel.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Console.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Data.Common.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.Debug.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.Process.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.Tools.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Drawing.Primitives.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Dynamic.Runtime.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Globalization.Calendars.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Globalization.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Globalization.Extensions.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.IO.Compression.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.IO.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.IO.FileSystem.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.IO.Pipes.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Linq.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Linq.Expressions.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Linq.Parallel.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Linq.Queryable.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Net.Http.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Net.NameResolution.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Net.NetworkInformation.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Net.Ping.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Net.Primitives.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Net.Requests.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Net.Security.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Net.Sockets.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Net.WebSockets.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.ObjectModel.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Reflection.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Reflection.Extensions.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Reflection.Primitives.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Resources.Reader.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Resources.ResourceManager.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Resources.Writer.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Runtime.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Runtime.Extensions.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Runtime.Handles.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Runtime.InteropServices.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Runtime.Numerics.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Security.Claims.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Security.Principal.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Security.SecureString.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Text.Encoding.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Text.RegularExpressions.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Threading.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Threading.Overlapped.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Threading.Tasks.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Threading.Thread.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Threading.ThreadPool.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Threading.Timer.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.ValueTuple.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Xml.XDocument.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Xml.XmlDocument.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Xml.XPath.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\Flurl.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\Flurl.Http.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\HtmlAgilityPack.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\Newtonsoft.Json.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\VkNet.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\Flurl.xml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\Flurl.Http.xml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\HtmlAgilityPack.pdb
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\HtmlAgilityPack.xml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\Newtonsoft.Json.xml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\VkNet.xml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\PosterWPF.exe.config
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\PosterWPF.csproj.CopyComplete
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\protobuf-net.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\VkNet.AudioBypassService.dll
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\bin\Debug\protobuf-net.xml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\VkLogin.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\VkLogin.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\SignUp.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\SignUp.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\AppManagement.g.cs
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Sections\AppManagement.baml
+E:\Kirill\5 sem\Курсовой проект\PosterWPF\PosterWPF\obj\Debug\Styles\ComboBoxStyle.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\PosterWPF.exe.config
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\PosterWPF.exe
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\PosterWPF.pdb
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\netstandard.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.AppContext.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Collections.Concurrent.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Collections.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Collections.NonGeneric.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Collections.Specialized.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.ComponentModel.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Console.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Data.Common.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.Debug.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.Process.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.Tools.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Drawing.Primitives.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Dynamic.Runtime.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Globalization.Calendars.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Globalization.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Globalization.Extensions.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.Compression.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.FileSystem.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.Pipes.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Linq.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Linq.Expressions.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Linq.Parallel.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Linq.Queryable.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.Http.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.NameResolution.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.NetworkInformation.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.Ping.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.Primitives.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.Requests.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.Security.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.Sockets.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.WebSockets.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.ObjectModel.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Reflection.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Reflection.Extensions.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Reflection.Primitives.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Resources.Reader.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Resources.ResourceManager.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Resources.Writer.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.Extensions.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.Handles.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.InteropServices.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.Numerics.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.Claims.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.Principal.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.SecureString.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Text.Encoding.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Text.RegularExpressions.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Threading.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Threading.Overlapped.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Threading.Tasks.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Threading.Thread.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Threading.ThreadPool.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Threading.Timer.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.ValueTuple.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Xml.XDocument.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Xml.XmlDocument.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Xml.XPath.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Flurl.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Flurl.Http.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\HtmlAgilityPack.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Newtonsoft.Json.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\protobuf-net.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\VkNet.AudioBypassService.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\VkNet.dll
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Flurl.xml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Flurl.Http.xml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\HtmlAgilityPack.pdb
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\HtmlAgilityPack.xml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Newtonsoft.Json.xml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\protobuf-net.xml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\VkNet.xml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.csprojAssemblyReference.cache
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.exe.config
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllCinemas.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllConcertHalls.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllConcerts.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllExhibition.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllExhibitionCenters.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllFilms.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AppManagement.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\CalendarPage.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\ConcertsPage.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\ExhibitionsPage.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\FilmsPage.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridCinema.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridConcertHalls.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridConcerts.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridExhibition.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridExhibitionCenters.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridFilm.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SearchPage.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SettingsPage.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SignInForm.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SignUp.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\VkLogin.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\MainWindow.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\App.g.cs
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF_MarkupCompile.cache
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF_MarkupCompile.lref
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\App.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllCinemas.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllConcertHalls.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllConcerts.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllExhibition.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllExhibitionCenters.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllFilms.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AppManagement.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\CalendarPage.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\ConcertsPage.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\ExhibitionsPage.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\FilmsPage.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridCinema.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridConcertHalls.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridConcerts.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridExhibition.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridExhibitionCenters.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridFilm.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SearchPage.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SettingsPage.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SignInForm.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SignUp.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\VkLogin.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\BackButtonStyle.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\CalendarButton.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\CalendarStyle.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\MainWindow.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\AllPagesMenuButtons.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\ComboBoxStyle.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\GridFilmButtonResource.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\MenuButtonsStyle.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\MenuButtonStyle.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\SearchButtonStyle.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\SginInButtons.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\SignInButtonStyle.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\VkButton.baml
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.g.resources
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.Properties.Resources.resources
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.csproj.GenerateResource.cache
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.csproj.CoreCompileInputs.cache
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.csproj.CopyComplete
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.exe
+E:\Laboratory\Course project C#\архив\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.pdb
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\PosterWPF.exe.config
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\PosterWPF.exe
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\PosterWPF.pdb
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\netstandard.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.AppContext.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Collections.Concurrent.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Collections.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Collections.NonGeneric.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Collections.Specialized.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.ComponentModel.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.ComponentModel.Primitives.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Console.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Data.Common.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.Contracts.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.Debug.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.Process.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.Tools.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Diagnostics.Tracing.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Drawing.Primitives.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Dynamic.Runtime.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Globalization.Calendars.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Globalization.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Globalization.Extensions.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.Compression.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.FileSystem.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.IsolatedStorage.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.Pipes.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Linq.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Linq.Expressions.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Linq.Parallel.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Linq.Queryable.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.Http.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.NameResolution.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.NetworkInformation.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.Ping.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.Primitives.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.Requests.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.Security.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.Sockets.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.WebSockets.Client.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Net.WebSockets.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.ObjectModel.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Reflection.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Reflection.Extensions.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Reflection.Primitives.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Resources.Reader.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Resources.ResourceManager.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Resources.Writer.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.Extensions.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.Handles.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.InteropServices.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.Numerics.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.Claims.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.Principal.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Security.SecureString.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Text.Encoding.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Text.RegularExpressions.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Threading.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Threading.Overlapped.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Threading.Tasks.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Threading.Thread.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Threading.ThreadPool.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Threading.Timer.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.ValueTuple.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Xml.ReaderWriter.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Xml.XDocument.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Xml.XmlDocument.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Xml.XmlSerializer.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Xml.XPath.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.csprojAssemblyReference.cache
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.exe.config
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllCinemas.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllConcertHalls.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllConcerts.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllFilms.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AppManagement.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\CalendarPage.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\ConcertsPage.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\FilmsPage.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridCinema.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridConcertHalls.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridConcerts.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridFilm.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SearchPage.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SettingsPage.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SignInForm.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SignUp.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\MainWindow.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\App.g.cs
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF_MarkupCompile.cache
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF_MarkupCompile.lref
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\App.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllCinemas.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllConcertHalls.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllConcerts.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AllFilms.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\AppManagement.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\CalendarPage.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\ConcertsPage.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\FilmsPage.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridCinema.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridConcertHalls.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridConcerts.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\GridFilm.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SearchPage.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SettingsPage.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SignInForm.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Sections\SignUp.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\CalendarStyle.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\MainWindow.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\GridFilmButtonResource.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\MenuButtonsStyle.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\Styles\SearchButtonStyle.baml
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.g.resources
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.Properties.Resources.resources
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.csproj.GenerateResource.cache
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.csproj.CoreCompileInputs.cache
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.csproj.CopyComplete
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.exe
+D:\univer\Course_work_archiv\0 PosterWPF-master\PosterWPF-master\PosterWPF\obj\Debug\PosterWPF.pdb
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\PosterWPF.exe.config
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\PosterWPF.exe
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\PosterWPF.pdb
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\netstandard.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.AppContext.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Collections.Concurrent.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Collections.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Collections.NonGeneric.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Collections.Specialized.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.ComponentModel.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.ComponentModel.Primitives.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Console.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Data.Common.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.Contracts.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.Debug.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.Process.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.Tools.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Diagnostics.Tracing.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Drawing.Primitives.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Dynamic.Runtime.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Globalization.Calendars.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Globalization.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Globalization.Extensions.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.IO.Compression.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.IO.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.IO.FileSystem.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.IO.IsolatedStorage.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.IO.Pipes.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Linq.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Linq.Expressions.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Linq.Parallel.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Linq.Queryable.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Net.Http.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Net.NameResolution.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Net.NetworkInformation.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Net.Ping.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Net.Primitives.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Net.Requests.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Net.Security.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Net.Sockets.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Net.WebSockets.Client.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Net.WebSockets.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.ObjectModel.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Reflection.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Reflection.Extensions.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Reflection.Primitives.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Resources.Reader.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Resources.ResourceManager.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Resources.Writer.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Runtime.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Runtime.Extensions.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Runtime.Handles.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Runtime.InteropServices.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Runtime.Numerics.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Security.Claims.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Security.Principal.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Security.SecureString.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Text.Encoding.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Text.RegularExpressions.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Threading.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Threading.Overlapped.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Threading.Tasks.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Threading.Thread.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Threading.ThreadPool.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Threading.Timer.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.ValueTuple.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Xml.ReaderWriter.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Xml.XDocument.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Xml.XmlDocument.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Xml.XmlSerializer.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Xml.XPath.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\PosterWPF.csprojAssemblyReference.cache
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\PosterWPF.exe.config
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\AllCinemas.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\AllConcertHalls.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\AllConcerts.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\AllFilms.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\AppManagement.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\CalendarPage.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\ConcertsPage.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\FilmsPage.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\GridCinema.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\GridConcertHalls.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\GridConcerts.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\GridFilm.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\SearchPage.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\SettingsPage.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\SignInForm.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\SignUp.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\MainWindow.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\App.g.cs
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\PosterWPF_MarkupCompile.cache
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\PosterWPF_MarkupCompile.lref
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\App.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\AllCinemas.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\AllConcertHalls.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\AllConcerts.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\AllFilms.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\AppManagement.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\CalendarPage.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\ConcertsPage.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\FilmsPage.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\GridCinema.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\GridConcertHalls.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\GridConcerts.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\GridFilm.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\SearchPage.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\SettingsPage.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\SignInForm.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Sections\SignUp.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Styles\CalendarStyle.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\MainWindow.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Styles\GridFilmButtonResource.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Styles\MenuButtonsStyle.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\Styles\SearchButtonStyle.baml
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\PosterWPF.g.resources
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\PosterWPF.Properties.Resources.resources
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\PosterWPF.csproj.GenerateResource.cache
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\PosterWPF.csproj.CoreCompileInputs.cache
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\PosterWPF.csproj.CopyComplete
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\PosterWPF.exe
+D:\univer\Course_work_database\PosterWPF\PosterWPF\obj\Debug\PosterWPF.pdb

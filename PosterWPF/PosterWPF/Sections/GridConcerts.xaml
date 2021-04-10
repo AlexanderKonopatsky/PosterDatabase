@@ -1,0 +1,52 @@
+﻿<UserControl x:Class="PosterWPF.Sections.GridConcerts"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PosterWPF.Sections"
+             mc:Ignorable="d" 
+              d:DesignHeight="716" d:DesignWidth="494" x:Name="MainGridConcert" Loaded="MainGridConcert_Loaded">
+    <Grid Background="White">
+        <ScrollViewer CanContentScroll="True">
+            <Grid>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="98*"/>
+                    <RowDefinition Height="92*"/>
+                    <RowDefinition Height="175*"/>
+
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" Margin="25">
+                    <Image x:Name="FilmImage" HorizontalAlignment="Center"  VerticalAlignment="Center" Height="550"/>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Label Margin="5, 3, 0, 0 ">Genre and country:</Label>
+                    <Label x:Name="Genre" Margin="170,0,0, 0" Content="GenreAndCountry" HorizontalAlignment="Left"  VerticalAlignment="Top" FontSize="17" FontFamily="Times New Roman" />
+                    <Label Margin="5,30,0,25">Concert name:</Label>
+                    <Label x:Name="ConcertName" Content="ConcertName" Margin="170,25" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="17" FontFamily="Times New Roman" />
+                    <Label Margin="5,60,0,25">Descriptions:</Label>
+                    <TextBox x:Name="ActorsAndDescriptions" Margin="85,60,0,25" IsReadOnly="True" Height="100" HorizontalAlignment="Left" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" FontSize="15" FontFamily="Times New Roman" Width="382" BorderBrush="White"/>
+                </Grid>
+
+                <Grid Grid.Row="2">
+                    <Label Content="Concert:" HorizontalAlignment="Left" Margin="28,0,0,15" VerticalAlignment="Top" FontFamily="Times New Roman" FontSize="18" RenderTransformOrigin="0.779,-2.879"/>
+                    <StackPanel x:Name="ConcertHall" HorizontalAlignment="Left" Margin="-25,25,-5,0" VerticalAlignment="Top" Width="454" MinHeight="5000"></StackPanel>
+                </Grid>
+
+
+
+
+                <!--<Label x:Name="ConcertName" Content="Name" HorizontalAlignment="Left" Margin="28,260,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Times New Roman" Width="456" />
+                <Label x:Name="Genre" Content="Genre" HorizontalAlignment="Left" Margin="28,300,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Times New Roman" />
+
+                <TextBox x:Name="ActorsAndDescriptions" IsReadOnly="True" HorizontalAlignment="Left" Margin="28,340,0,0" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" FontSize="20" FontFamily="Times New Roman"  VerticalAlignment="Top" Height="194" Width="437" BorderBrush="White"/>
+
+                <StackPanel x:Name="ConcertHall" HorizontalAlignment="Left" Margin="0,576,0,0" VerticalAlignment="Top" Width="494"/>
+                <Image x:Name="FilmImage" HorizontalAlignment="Left" Height="235" VerticalAlignment="Top" Width="477"/>-->
+
+            </Grid>
+        </ScrollViewer>
+
+
+    </Grid>
+</UserControl>

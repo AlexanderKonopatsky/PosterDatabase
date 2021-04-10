@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="PosterWPF.Sections.AllCinemas"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PosterWPF.Sections"
+             mc:Ignorable="d" 
+             d:DesignHeight="630" d:DesignWidth="494" x:Name="AllCinemas1" Loaded="AllCinemas1_Loaded">
+    <Grid Background="White">
+        <ScrollViewer  CanContentScroll="True">
+            <StackPanel x:Name="MainStack" ScrollViewer.CanContentScroll="True">
+                
+            </StackPanel>
+            
+        </ScrollViewer>
+    </Grid>
+</UserControl>

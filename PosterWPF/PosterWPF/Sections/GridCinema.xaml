@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="PosterWPF.Sections.GridCinema"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PosterWPF.Sections"
+             mc:Ignorable="d" 
+             d:DesignHeight="716" d:DesignWidth="494" x:Name="GridCinema1" Loaded="GridCinema1_Loaded" >
+    <Grid Background="White">
+        <ScrollViewer CanContentScroll="true">
+            <Grid>
+                <Image x:Name="CinemaImage" HorizontalAlignment="Left" Height="122" Margin="34,34,0,0" VerticalAlignment="Top" Width="193"/>
+                <Label x:Name="CinemaName" Content="Name" HorizontalAlignment="Left" Margin="271,52,0,0" FontSize="24" VerticalAlignment="Top" FontFamily="Times New Roman" FontWeight="Bold"/>
+                <StackPanel x:Name="MainStack" HorizontalAlignment="Left" Margin="0,185,0,0" VerticalAlignment="Top" Width="494"/>
+            </Grid>
+        </ScrollViewer>
+        
+
+    </Grid>
+</UserControl>

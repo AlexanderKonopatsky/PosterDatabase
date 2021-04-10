@@ -1,0 +1,38 @@
+﻿<Window x:Name="Poster" x:Class="PosterWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PosterWPF"
+        mc:Ignorable="d"
+        Title="Poster" Height="670" Width="850" ResizeMode="NoResize" Closed="Poster_Closed" Loaded="Poster_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="242*"/>
+        </Grid.RowDefinitions>
+        <Grid HorizontalAlignment="Left" Height="55" Background="#86ddb0" VerticalAlignment="Top" Width="844" Grid.RowSpan="2"  >
+            <Border BorderBrush="Black" BorderThickness="1"/>
+
+            <Label x:Name="Section" Content="Films" HorizontalAlignment="Left" Margin="519,2,0,0" VerticalAlignment="Top" Width="151" Height="53" Foreground="#FFA02525" FontSize="36" FontFamily="Times New Roman" RenderTransformOrigin="0.5,0.435"/>
+
+
+        </Grid>
+        <StackPanel x:Name="Menu" Panel.ZIndex="3" HorizontalAlignment="Left" Height="641" VerticalAlignment="Top" Width="297" Background="#6f9679" Grid.RowSpan="2" RenderTransformOrigin="0.478,0.554">
+            <Button x:Name="SearchButton" Content="Search" Height="55" Background="#496645" Foreground="White" FontSize="18"  Click="SearchButton_Click" Style="{DynamicResource SearchButtonStyle}"/>
+            <Button x:Name="FilmsButton" Content="Films" BorderThickness="0,1,0,1" HorizontalContentAlignment="Center" Height="88" Background="#184223" Foreground="White" FontSize="22" Style="{DynamicResource ButtonsStyle}" Click="FilmsButton_Click"/>
+            <Button x:Name="ConcertsButton" Content="Concerts" BorderThickness="0,0,0,0" HorizontalContentAlignment="Center" Height="88" BorderBrush="#FF212020" Background="#184223" Foreground="White" FontSize="22" Style="{DynamicResource ButtonsStyle}" Click="ConcertsButton_Click"/>
+            <Button x:Name="SettingsButton" Content="Settings" BorderThickness="0,1,0,1" HorizontalContentAlignment="Center" Height="88" Background="#184223" Foreground="White" FontSize="22" Style="{DynamicResource ButtonsStyle}" Click="SettingsButton_Click"/>
+        </StackPanel>
+
+
+        <Grid x:Name="MainBody" HorizontalAlignment="Left"   Height="566" Grid.Row="1" VerticalAlignment="Top" Width="524" Margin="310,28,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="0*"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <Grid x:Name="OpenCalendar" Panel.ZIndex="3" HorizontalAlignment="Left" Height="255" Margin="10,318,0,0" Grid.Row="1" VerticalAlignment="Top" Width="275"/>
+
+    </Grid>
+</Window>

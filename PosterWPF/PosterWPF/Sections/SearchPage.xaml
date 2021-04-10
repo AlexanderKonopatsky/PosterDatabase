@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="PosterWPF.Sections.SearchPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PosterWPF.Sections"
+             mc:Ignorable="d" 
+             d:DesignHeight="716" d:DesignWidth="494">
+    <Grid x:Name="SearchPage1" Background="white">
+        <TextBox x:Name="SearchString" FontSize="24" FontFamily="Times New Roman" HorizontalAlignment="Left" Height="38" Margin="10,5,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="350"/>
+        <Button x:Name="SearchButton" Click="SearchButton_Click"  Content="Search" FontSize="20" FontFamily="Times New Roman" HorizontalAlignment="Left" VerticalAlignment="Top" Width="119" Margin="365,5,0,0" Height="38"/>
+        <Grid>
+            <ScrollViewer CanContentScroll="True" Margin="0,45,0,0">
+                <StackPanel x:Name="MainStack" CanVerticallyScroll="True"  HorizontalAlignment="Left" Height="668" Margin="0,48,0,0" VerticalAlignment="Top" Width="494"/>
+
+            </ScrollViewer>
+            </Grid>
+        
+    </Grid>
+</UserControl>
